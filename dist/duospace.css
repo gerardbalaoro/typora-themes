@@ -1,5 +1,5 @@
-@import url('./custom/code.css');
-@import url('./custom/fonts.css');
+@import url('./duospace/code.css');
+@import url('./duospace/fonts.css');
 
 :root {
   --accent-color: #556577;

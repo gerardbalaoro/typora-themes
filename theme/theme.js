@@ -1,3 +1,3 @@
 module.exports = {
-  name: 'inter',
+  name: 'duospace',
 }
