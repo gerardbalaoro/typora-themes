@@ -16,6 +16,7 @@
   --document-horizontal-margin: 80px;
   --document-padding-x: 10ch;
   --font-size: 16px;
+  --title-fontsize: 1.75rem;
   --h1-fontsize: 1.5rem; /* 1,5   rem = 24px */
   --h2-fontsize: 1.375rem; /* 1,375 rem = 22px */
   --h3-fontsize: 1.25rem; /* 1,25  rem = 20px */
@@ -103,6 +104,7 @@ h3 {
   margin-top: 1.5rem;
   margin-bottom: 1rem;
   font-size: var(--h3-fontsize);
+  font-weight: 500;
 }
 
 h4,
@@ -125,6 +127,7 @@ h6 {
 h1:first-of-type {
   text-align: center;
   margin-bottom: 2rem;
+  font-size: var(--title-fontsize);
 }
 
 h1 tt,
