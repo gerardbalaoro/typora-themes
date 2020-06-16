@@ -1,6 +1,6 @@
-@import url('./custom/code.css');
-@import url('./custom/lmroman/lmroman.css');
-@import url('./custom/fira-code/fira-code.css');
+@import url('./academic/code.css');
+@import url('./academic/lmroman/lmroman.css');
+@import url('./academic/fira-code/fira-code.css');
 
 :root {
   --accent-color: #556577;
